@@ -107,9 +107,9 @@ public class GradeCalculator {
         System.out.println("================================");
 
         if(grade.equals("F")) {
-            System.out.println("Result        : FAIL ❌");
+            System.out.println("Result        : FAIL ");
         } else {
-            System.out.println("Result        : PASS ✅");
+            System.out.println("Result        : PASS ");
         }
         System.out.println("================================");
 
